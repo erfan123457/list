@@ -1,6 +1,6 @@
 [
   {
-    "aks": "https://s4.uupload.ir/files/1631902352666_8yl7.png",
-    "namayesh": "https://github.com/erfan123457?tab\u003drepositories"
+    "aks": "https://s4.uupload.ir/files/picsart_09-18-09.40.14_554m.png",
+    "namayesh": "http://tv2.ir/live"
   }
 ]
