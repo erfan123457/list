@@ -1,6 +1,6 @@
 [
   {
-    "aks": "https://s4.uupload.ir/files/picsart_09-18-09.40.14_554m.png",
-    "namayesh": "http://tv2.ir/live"
+    "aks": "https://s4.uupload.ir/files/1632053013257_n8vz.png",
+    "namayesh": ""
   }
 ]
