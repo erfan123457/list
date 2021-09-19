@@ -1,6 +1,5 @@
 [
   {
-    "aks": "باتشکر از یو آپلود برای <a href="https://uupload.ir/">میزبانی رایگان عکس و فایل</a>",
-    "namayesh": ""
+    "aks": "https://s4.uupload.ir/files/1632059232555_tvai.png"
   }
 ]
