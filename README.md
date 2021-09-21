@@ -1,6 +1,6 @@
 [
   {
-    "aks": "https://imgurl.ir/uploads/488919_PicsArt_09-21-10.43.05.png",
-    "namayesh": ""
+    "aks": "https://s4.uupload.ir/files/picsart_09-21-10.43.05_vra5.png",
+    "namayesh": "https://s4.uupload.ir/files/picsart_09-21-10.43.05_vra5.png"
   }
 ]
